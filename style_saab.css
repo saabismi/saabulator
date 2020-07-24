@@ -1,0 +1,28 @@
+.boxi {
+	border-style:outset;
+	border-color:black;
+	text-align:center;
+	width:60%;
+	margin-left:auto;
+	margin-right:auto;
+	padding:20px;
+}
+
+.boxi:hover {
+	border-color:blue;
+}
+
+.version {
+	margin-top:10px;
+	margin-bottom:10px;
+	padding:5px;
+	border-left-color:black;
+	border-left-style:solid;
+	text-align:left;
+	margin-left:10%;
+	width:50%;
+}
+
+.version:hover {
+	font-family:verdana;
+}
